@@ -1,4 +1,4 @@
-Time,PV input current(A),PV input voltage(V),Ambient Temp,Irradiance,PV_temp,PV_no.
+Time,PV_input_current(A),PV_input_voltage(V),Ambient_temp,Irradiance,PV_temp,PV_no.
 2/8/2025 0:00,0,0,0,0,0,1
 2/8/2025 0:00,0,0,0,0,0,2
 2/8/2025 0:00,0,0,0,0,0,3
